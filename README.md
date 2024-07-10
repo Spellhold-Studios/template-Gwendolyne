@@ -1,3 +1,10 @@
+[![Latest release](https://img.shields.io/github/v/release/Spellhold-Studios/template-Gwendolyne?include_prereleases&label=latest%20release&color=darkred)](https://github.com/Spellhold-Studios/template-Gwendolyne/releases/latest)
+[![Release date](https://img.shields.io/github/release-date/Spellhold-Studios/template-Gwendolyne?display_date=published_at&color=orange)](https://github.com/Spellhold-Studios/template-Gwendolyne/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Spellhold-Studios/template-Gwendolyne/total?color=gold)](https://github.com/Spellhold-Studios/template-Gwendolyne/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Project%20Infinity-informational)](https://github.com/Spellhold-Studios/template-Gwendolyne/releases)
+[![Supported games](https://img.shields.io/badge/supported%20games-BG2%20%7C%20BGT%20%7C%20BG2%3AEE%20%7C%20EET-indigo)](https://github.com/Spellhold-Studios/template-Gwendolyne/releases)
+[![Language](https://img.shields.io/badge/language-English%20%7C%20French%20%7C%20German-limegreen)](https://github.com/Spellhold-Studios/template-Gwendolyne/releases)
+
 <div align="center"><h1>MYMOD</h1>
 
 <h3>A mod hosted at Spellhold Studios for Baldur's Gate II:ToB, Baldur's Gate Trilogy, BG2:EE and EET<h3>
